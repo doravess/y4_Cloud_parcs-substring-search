@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.vscode/
+parcs-python/input.txt
+input.txt
+output*.txt
